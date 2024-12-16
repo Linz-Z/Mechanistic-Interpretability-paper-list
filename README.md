@@ -21,3 +21,17 @@ This is a list of papers on Mechanistic Interpretability, aiming to organize and
 | [Transcoders Find Interpretable LLM Feature Circuits ](https://arxiv.org/pdf/2406.11944) | Transcoders |This paper explores Transcoders, a novel method for circuit analysis in language models, showing that they outperform Sparse Autoencoders (SAEs) in identifying faithful and interpretable circuits, enabling disentanglement of input-invariant and input-dependent information while scaling efficiently to larger models.| 
 | [THE SAME BUT DIFFERENT STRUCTURAL SIMILARITIES AND DIFFERENCES IN MULTILINGUAL LANGUAGE MODELING ](https://arxiv.org/pdf/2410.09223) | Mutillingual Circuit |This paper investigates how multilingual language models (LLMs) represent structural similarities and differences across languages, showing that models employ shared circuits for similar morphosyntactic processes across languages while utilizing language-specific components for unique structures, such as tense marking in English but not in Chinese.|
 
+- Transformers Struggle to Learn to Search [arxiv 2412](https://arxiv.org/abs/2412.04703) 
+- Modular addition without black-boxes: Compressing explanations of MLPs that compute numerical integration [arxiv 2412](https://arxiv.org/abs/2412.03773)
+- Monet: Mixture of Monosemantic Experts for Transformers [arxiv 2412](https://arxiv.org/abs/2412.04139)
+
+- Adaptive Circuit Behavior and Generalization in Mechanistic Interpretability 
+- Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering [arxiv 2411](https://arxiv.org/abs/2411.10950)
+- Towards a Mechanistic Explanation of Diffusion Model Generalization [arxiv 2411](https://arxiv.org/abs/2411.19339)
+- New Faithfulness-Centric Interpretability Paradigms for Natural Language Processing [arxiv 2411](https://arxiv.org/abs/2411.17992)
+- Revelio: Interpreting and leveraging semantic information in diffusion models [arxiv 2411](https://arxiv.org/abs/2411.16725)
+- Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models [arxiv 2411](https://arxiv.org/abs/2411.14257)
+- ULTra: Unveiling Latent Token Interpretability in Transformer Based Understanding [arxiv 2411](https://arxiv.org/abs/2411.12589)
+- How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis [arxiv 2411](https://arxiv.org/abs/2411.04105)
+- Towards Unifying Interpretability and Control: Evaluation via Intervention [arxiv 2411](https://arxiv.org/abs/2411.04430)
+- Enhancing Neural Network Interpretability with Feature-Aligned Sparse Autoencoders [arxiv 2411](
