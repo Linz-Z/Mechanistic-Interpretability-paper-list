@@ -21,7 +21,7 @@ This is a list of papers on Mechanistic Interpretability, aiming to organize and
 | [Transcoders Find Interpretable LLM Feature Circuits ](https://arxiv.org/pdf/2406.11944) | Transcoders |This paper explores Transcoders, a novel method for circuit analysis in language models, showing that they outperform Sparse Autoencoders (SAEs) in identifying faithful and interpretable circuits, enabling disentanglement of input-invariant and input-dependent information while scaling efficiently to larger models.| 
 | [THE SAME BUT DIFFERENT STRUCTURAL SIMILARITIES AND DIFFERENCES IN MULTILINGUAL LANGUAGE MODELING ](https://arxiv.org/pdf/2410.09223) | Mutillingual Circuit |This paper investigates how multilingual language models (LLMs) represent structural similarities and differences across languages, showing that models employ shared circuits for similar morphosyntactic processes across languages while utilizing language-specific components for unique structures, such as tense marking in English but not in Chinese.|
 
-
+##Recent Papers
 - Transformers Struggle to Learn to Search [arxiv 2412](https://arxiv.org/abs/2412.04703) 
 - Modular addition without black-boxes: Compressing explanations of MLPs that compute numerical integration [arxiv 2412](https://arxiv.org/abs/2412.03773)
 - Monet: Mixture of Monosemantic Experts for Transformers [arxiv 2412](https://arxiv.org/abs/2412.04139)
