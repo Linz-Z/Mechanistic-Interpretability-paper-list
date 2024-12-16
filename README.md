@@ -55,4 +55,5 @@ Here are some related repositories for Large Language Model (LLM) interpretabili
 
 - [Awesome LLM Interpretability by cooperleong00](https://github.com/cooperleong00/Awesome-LLM-Interpretability)
 - [Awesome Interpretability in Large Language Models by ruizheliUOA](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
+- [awesome-mechanistic-interpretability-lm-papers](https://github.com/Dakingrai/awesome-mechanistic-interpretability-lm-papers)
 
